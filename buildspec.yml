@@ -2,8 +2,8 @@
 
 version: 0.1
 environment_variables:
-plaintext:
-HUGO VERSION: "0.89.4”
+  plaintext:
+     HUGO_VERSION='0.89.4'
 
 phases: 
   install:
